@@ -1,12 +1,12 @@
 import "./App.css";
 import Counter from "./Counter";
-import Reiz from "./Reiz";
+import Hello from "./Hello";
 
 function App() {
   return (
     <div className="App">
       <Counter></Counter>
-      {/* <Reiz></Reiz> */}
+      <Hello></Hello>
     </div>
   );
 }
